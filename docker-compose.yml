@@ -1,0 +1,5 @@
+services:
+  glados:
+    build: .
+    ports:
+      - "8124:8124"
